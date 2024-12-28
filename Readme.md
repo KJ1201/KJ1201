@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
     <!-- <img src="" alt=""/> -->
 </div>
-<br>
+
 
 ## 📊 GitHub Stats
 
@@ -27,7 +27,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJ1201&layout=compact&theme=radical)
 
-<br>
 
 ## 🌐 Let's Connect
 
@@ -44,7 +43,5 @@
 </div>
 <br>
 Feel free to check out my repositories and let's connect if you have any questions or just want to chat!
-
-<br>
 
 ---
