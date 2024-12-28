@@ -1,4 +1,4 @@
-# 💫 About me
+# 💫 About Me:
 
 🔭 **I’m working on:** <br>Python Projects and Web Development
 
@@ -7,8 +7,7 @@
 🌱 **I’m currently learning:** <br>Artificial Intelligence and Machine Learning
 
 
-
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <div display="flex">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -21,9 +20,8 @@
     <!-- <img src="" alt=""/> -->
 </div>
 <br>
-<br>
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![KJ1201's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KJ1201&show_icons=true&theme=radical)
 
