@@ -6,9 +6,7 @@
 
 🌱 **I’m currently learning:** <br>Artificial Intelligence and Machine Learning
 
-
 <br>
-
 # 💻 Tech Stack
 
 <div display="flex">
@@ -30,6 +28,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJ1201&layout=compact&theme=radical)
 
+<br>
 
 ## 🌐 Let's Connect
 
