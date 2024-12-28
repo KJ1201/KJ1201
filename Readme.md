@@ -33,13 +33,13 @@
 <div display="flex">
   <a href="https://www.linkedin.com/in/karanjuneja1201/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  </a> 
   <a href="https://www.instagram.com/_.karanjuneja_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  </a> 
   <a href="https://x.com/KaranJuneja1201">
     <img src="https://img.shields.io/badge/KJ1201-000000?style=for-the-badge&logo=x&logoColor=white" alt="X.com"/>
-  </a>
+  </a> 
 </div>
 <br>
 Feel free to check out my repositories and let's connect if you have any questions or just want to chat!
