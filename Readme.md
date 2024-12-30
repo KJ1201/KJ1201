@@ -25,6 +25,8 @@
 
 ![KJ1201's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KJ1201&show_icons=true&theme=radical)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=nwaliaez&theme=dark&hide_border=false)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJ1201&layout=compact&theme=radical)
 
 
