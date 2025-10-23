@@ -48,4 +48,7 @@
 <br>
 Feel free to check out my repositories and let's connect if you have any questions or just want to chat!
 
+[![An image of @kj1201's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kj1201)](https://holopin.io/@kj1201)
+
 ---
+
